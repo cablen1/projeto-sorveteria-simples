@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.topo {
+    margin: 0 auto;
+    text-align: center;
+    background-color: orange;
+    padding: 19px;
+}
+
+img {
+    width: 100%;
+    height: 655px;
+}
+
+.container-principal {
+    width: 80%;
+    padding: 4px;
+    margin: 80px auto;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 4px;
+}
+
+.sobre {
+    width: 80%;
+    height: 40%;
+    white-space: nowrap;
+    overflow: auto;
+    border: 2px solid gray;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+
+.sobre img{
+    width: 33%;
+    height: 250px;
+    border-radius: 12px;
+    padding: 4px;
+    display: inline-block;
+    margin-left: 3px;
+}
+
+.sobre p {
+    white-space: normal;
+}
+
+.contato{
+    height: 20vh;
+}
+
+.contato p {
+    padding: 16px;
+}
+
+.contato a{
+    background-color: aqua;
+    padding: 18px;
+}
